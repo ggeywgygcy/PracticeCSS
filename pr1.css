@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .bg{
     background: url(../img/money.jpg);
     height: 100vh;
