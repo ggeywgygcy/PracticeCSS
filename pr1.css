@@ -9,10 +9,10 @@
     height: 100vh;
 } 
 
+/* font */
 .navbar-brand{
     font-family: "Roboto Condensed";
 }
-
 .par{
     font-family: "Roboto Condensed";
     color: black;
@@ -20,6 +20,10 @@
     margin-left: 175px;
     margin-right: 175px;
 }
+.returh{
+    color: azure;
+}
+/**/
 
 #ret{
     margin-bottom: 0px;
@@ -36,6 +40,3 @@
     font-size: 30px;
 }
 
-.returh{
-    color: azure;
-}
