@@ -106,6 +106,7 @@
     height: 50px;
     font-family:  "Roboto Condensed";
     size: 25px;
+    text-decoration: none;
 }
 
 #al{
@@ -120,6 +121,22 @@
     color:white;
     font-size: 25px;
 }}
+
+#tt{
+    text-decoration: none;
+}
+
+#engv{
+    background-color: skyblue;
+    border: 30px;
+    border-color: aquamarine;
+    width: 100px;
+    border-radius: 10px;
+    font-family: "Roboto Condensed";
+    height: 30px;
+}
+
+
 
 
 
