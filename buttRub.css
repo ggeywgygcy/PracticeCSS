@@ -46,4 +46,19 @@
     width: 155px;
     height: 50px;
 }
+#button1{
+    width: 155px;
+    height: 50px;
+}
+#button2{
+    width: 155px;
+    height: 50px;
+}
+}
+#viv{
+    width: 500px;
+    height: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 0;
 }
